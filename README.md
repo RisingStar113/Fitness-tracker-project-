@@ -1,1 +1,1 @@
-# Fitness-tracker-project-
+# Personal-Fitness-Tracker-
